@@ -313,6 +313,10 @@ export const metadataStrings = createTranslator('CommonMetadataStrings', {
     message: 'Arithmetic',
     context: 'Math category type. See https://en.wikipedia.org/wiki/Arithmetic',
   },
+  andree: {
+    message: 'Andree',
+    context: 'A type of math category. See https://en.wikipedia.org/wiki/Algebra',
+  },
   algebra: {
     message: 'Algebra',
     context: 'A type of math category. See https://en.wikipedia.org/wiki/Algebra',
@@ -590,6 +594,11 @@ export const metadataStrings = createTranslator('CommonMetadataStrings', {
   },
   preschool: {
     message: 'Preschool',
+    context:
+      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
+  },
+  inicial: {
+    message: 'Inicial',
     context:
       'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
   },
