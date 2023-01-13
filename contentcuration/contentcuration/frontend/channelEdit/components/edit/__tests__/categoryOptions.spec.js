@@ -7,6 +7,22 @@ Vue.use(Vuetify);
 
 const testDropdown = [
   {
+    text: 'Andree',
+    value: 'PbGoelkj',
+  },
+  {
+    text: 'Fabricio',
+    value: 'PbGoepoi',
+  },
+  {
+    text: 'Guillen',
+    value: 'PbGoelkj.PbGoe2M1',
+  },
+  {
+    text: 'Galarza',
+    value: 'PbGoelkj.PbGoe2M1.PbGoe2M2',
+  },
+  {
     text: 'DAILY_LIFE',
     value: 'PbGoe2MV',
   },

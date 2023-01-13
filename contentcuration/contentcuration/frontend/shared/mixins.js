@@ -602,6 +602,31 @@ export const metadataStrings = createTranslator('CommonMetadataStrings', {
     context:
       'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
   },
+  gb: {
+    message: 'Gb',
+    context:
+      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
+  },
+  andree: {
+    message: 'Andree',
+    context:
+      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
+  },
+  fabricio: {
+    message: 'Fabricio',
+    context:
+      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
+  },
+  guillen: {
+    message: 'Guillen',
+    context:
+      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
+  },
+  galarza: {
+    message: 'Galarza',
+    context:
+      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
+  },
   lowerPrimary: {
     message: 'Lower primary',
     context:
