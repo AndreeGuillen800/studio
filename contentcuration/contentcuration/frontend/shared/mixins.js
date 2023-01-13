@@ -623,6 +623,11 @@ export const metadataStrings = createTranslator('CommonMetadataStrings', {
     context:
       'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
   },
+  gabriel: {
+    message: 'Gabriel',
+    context:
+      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
+  },
   lowerPrimary: {
     message: 'Lower primary',
     context:

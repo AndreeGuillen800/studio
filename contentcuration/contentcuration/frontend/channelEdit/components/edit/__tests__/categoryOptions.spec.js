@@ -9,6 +9,9 @@ const testDropdown = [
   {
     text: 'Andree',
     value: 'PbGoelkj',
+  },{
+    text: 'Gabriel',
+    value: 'PbGoejkl',
   },
   {
     text: 'Fabricio',
