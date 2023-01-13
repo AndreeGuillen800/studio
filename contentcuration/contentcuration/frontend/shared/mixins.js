@@ -313,10 +313,6 @@ export const metadataStrings = createTranslator('CommonMetadataStrings', {
     message: 'Arithmetic',
     context: 'Math category type. See https://en.wikipedia.org/wiki/Arithmetic',
   },
-  andree: {
-    message: 'Andree',
-    context: 'A type of math category. See https://en.wikipedia.org/wiki/Algebra',
-  },
   algebra: {
     message: 'Algebra',
     context: 'A type of math category. See https://en.wikipedia.org/wiki/Algebra',
