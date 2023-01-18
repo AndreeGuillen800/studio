@@ -581,6 +581,57 @@ export const metadataStrings = createTranslator('CommonMetadataStrings', {
     context:
       'Accessibility filter to search for video and audio resources that have text captions for users who are deaf or hard of hearing.\nhttps://www.w3.org/WAI/media/av/captions/',
   },
+  // scienceTechnology
+  scienceTechnology: {
+    message: 'CIENCIA Y TECNOLOGÍA',
+    context: 'description',
+  },
+  scienceTechnologyC1: {
+    message: 'INDAGA MEDIANTE MÉTODOS CIENTÍFICOS PARA CONSTRUIR SUS CONOCIMIENTOS',
+    context: 'description',
+  },
+  scienceTechnologyC1D1: {
+    message: 'Hace preguntas que expresan su curiosidad sobre los objetos, seres vivos, hechos o fenómenos que acontecen en su ambiente.',
+    context: 'description',
+  },
+  scienceTechnologyC1D2: {
+    message: 'Obtiene información sobre las características de los objetos y materiales que explora a través de sus sentidos. Usa algunos objetos y herramientas en su exploración.',
+    context: 'description',
+  },
+  scienceTechnologyC1D3: {
+    message: 'Comunica los descubrimientos que hace cuando explora. Utiliza gestos o señas, movimientos corporales o lo hace oralmente.',
+    context: 'description',
+  },
+  // cienciasSociales
+
+  cienciasSociales: {
+    message: 'CIENCIAS SOCIALES GB',
+    context: 'description',
+  },
+  cienciasSocialesC1: {
+    message: 'CONSTRUYE INTERPRETACIONES HISTÓRICAS.',
+    context: 'description',
+  },
+  cienciasSocialesC1D1: {
+    message: 'Utiliza fuentes históricas para obtener información sobre un hecho o proceso histórico, desde el origen de la humanidad hasta las civilizaciones del mundo clásico y desde los primeros pobladores hasta los Estados regionales en los Andes centrales.',
+    context: 'description',
+  },
+  cienciasSocialesC1D2: {
+    message: 'Clasifica diferentes tipos de fuentes históricas y obtiene información de estas respecto de hechos o procesos históricos, desde el origen de la humanidad hasta las civilizaciones del mundo clásico y desde los primeros pobladores hasta los Estados regionales en los Andes centrales',
+    context: 'description',
+  },
+  cienciasSocialesC2: {
+    message: 'GESTIONA RESPONSABLEMENTE EL ESPACIO Y EL AMBIENTE.',
+    context: 'description',
+  },
+  cienciasSocialesC2D1: {
+    message: 'Describe los elementos naturales y sociales de los grandes espacios en el Perú: mar, costa, sierra y selva, considerando las actividades económicas realizadas por los actores sociales y sus características demográficas',
+    context: 'description',
+  },
+  cienciasSocialesC2D2: {
+    message: 'La información y herramientas cartográficas para ubicar diversos elementos naturales y sociales de los espacios geográficos. ',
+    context: 'description',
+  },
 
   // Used to categorize the level or audience of content
   // ContentLevels
@@ -588,43 +639,16 @@ export const metadataStrings = createTranslator('CommonMetadataStrings', {
     message: 'Level',
     context: 'Refers to the educational learning level, such a preschool, primary, secondary, etc.',
   },
+  inicialCompleto: {
+    message: 'Inicial Completo',
+    context: 'description',
+  },
+  semiInicial: {
+    message: 'semi Inicial',
+    context: 'description',
+  },
   preschool: {
     message: 'Preschool',
-    context:
-      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
-  },
-  inicial: {
-    message: 'Inicial',
-    context:
-      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
-  },
-  gb: {
-    message: 'Gb',
-    context:
-      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
-  },
-  andree: {
-    message: 'Andree',
-    context:
-      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
-  },
-  fabricio: {
-    message: 'Fabricio',
-    context:
-      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
-  },
-  guillen: {
-    message: 'Guillen',
-    context:
-      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
-  },
-  galarza: {
-    message: 'Galarza',
-    context:
-      'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
-  },
-  gabriel: {
-    message: 'Gabriel',
     context:
       'Refers to a level of education offered to children before they begin compulsory education at primary school.\n\nSee https://en.wikipedia.org/wiki/Preschool',
   },

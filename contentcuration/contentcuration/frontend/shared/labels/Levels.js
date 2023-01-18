@@ -3,9 +3,8 @@
 // Levels
 
 export default {
-    OMAR: "Z#97d123",
-    INICIAL: "Z#97dlkj",
-    GB: "Z#972lkj",
+    INICIALCOMPLETO: "icdhf1b2",
+    SEMIINICIAL: "sio21is2",
     BASIC_SKILLS: "H64ZOHfi",
     LOWER_PRIMARY: "wnarlxKo",
     LOWER_SECONDARY: "eLt0Mbu4",

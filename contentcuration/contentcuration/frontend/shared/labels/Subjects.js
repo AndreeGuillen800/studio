@@ -3,11 +3,18 @@
 // Subjects
 
 export default {
-    GABRIEL: "PbGoejkl",
-    ANDREE: "PbGoelkj",
-    GUILLEN: "PbGoelkj.PbGoe2M1",
-    GALARZA: "PbGoelkj.PbGoe2M1.PbGoe2M2",
-    FABRICIO: "PbGoepoi",
+    SCIENCETECHNOLOGY: "st32u31y",
+    SCIENCETECHNOLOGYC1: "st32u31y.stxwx2c1",
+    SCIENCETECHNOLOGYC1D1: "st32u31y.stxwx2c1.stadcc1d1",
+    SCIENCETECHNOLOGYC1D2: "st32u31y.stxwx2c1.stadcc1d2",
+    SCIENCETECHNOLOGYC1D3: "st32u31y.stxwx2c1.stadcc1d3",
+    CIENCIASSOCIALES: "cs32u31y",
+    CIENCIASSOCIALESC1: "cs32u31y.cs3fg4c1",
+    CIENCIASSOCIALESC1D1: "cs32u31y.cs3fg4c1.csfec1d1",
+    CIENCIASSOCIALESC1D2: "cs32u31y.cs3fg4c1.csfec1d2",
+    CIENCIASSOCIALESC2: "cs32u31y.cs3fg4c2",
+    CIENCIASSOCIALESC2D1: "cs32u31y.cs3fg4c2.csfec2d1",
+    CIENCIASSOCIALESC2D2: "cs32u31y.cs3fg4c2.csfec2d1",
     ALGEBRA: "d&WXdXWF.qs0Xlaxq.0t5msbL5",
     ANTHROPOLOGY: "d&WXdXWF.K80UMYnW.ViBlbQR&",
     ARITHMETIC: "d&WXdXWF.qs0Xlaxq.nG96nHDc",
