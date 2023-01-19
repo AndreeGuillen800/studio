@@ -3,8 +3,8 @@
 // Levels
 
 export default {
-    INICIALCOMPLETO: "icdhf1b2",
-    SEMIINICIAL: "sio21is2",
+    INICIAL_COMPLETO: "icdhf1b2",
+    SEMI_INICIAL: "sio21is2",
     BASIC_SKILLS: "H64ZOHfi",
     LOWER_PRIMARY: "wnarlxKo",
     LOWER_SECONDARY: "eLt0Mbu4",

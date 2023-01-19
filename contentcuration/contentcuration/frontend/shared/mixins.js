@@ -583,53 +583,53 @@ export const metadataStrings = createTranslator('CommonMetadataStrings', {
   },
   // scienceTechnology
   scienceTechnology: {
-    message: 'CIENCIA Y TECNOLOGÍA',
+    message: 'Science Technology',
     context: 'description',
   },
-  scienceTechnologyC1: {
-    message: 'INDAGA MEDIANTE MÉTODOS CIENTÍFICOS PARA CONSTRUIR SUS CONOCIMIENTOS',
+  scienceTechnologyc1: {
+    message: 'Science Technologyc1',
     context: 'description',
   },
-  scienceTechnologyC1D1: {
-    message: 'Hace preguntas que expresan su curiosidad sobre los objetos, seres vivos, hechos o fenómenos que acontecen en su ambiente.',
+  scienceTechnologyc1D1: {
+    message: 'Science Technologyc1 D1',
     context: 'description',
   },
-  scienceTechnologyC1D2: {
-    message: 'Obtiene información sobre las características de los objetos y materiales que explora a través de sus sentidos. Usa algunos objetos y herramientas en su exploración.',
+  scienceTechnologyc1D2: {
+    message: 'Science Technologyc1 D2',
     context: 'description',
   },
-  scienceTechnologyC1D3: {
-    message: 'Comunica los descubrimientos que hace cuando explora. Utiliza gestos o señas, movimientos corporales o lo hace oralmente.',
+  scienceTechnologyc1D3: {
+    message: 'Science Technologyc1 D3',
     context: 'description',
   },
   // cienciasSociales
 
   cienciasSociales: {
-    message: 'CIENCIAS SOCIALES GB',
+    message: 'Ciencias Sociales',
     context: 'description',
   },
-  cienciasSocialesC1: {
-    message: 'CONSTRUYE INTERPRETACIONES HISTÓRICAS.',
+  cienciasSocialesc1: {
+    message: 'Ciencias Socialesc1',
     context: 'description',
   },
-  cienciasSocialesC1D1: {
-    message: 'Utiliza fuentes históricas para obtener información sobre un hecho o proceso histórico, desde el origen de la humanidad hasta las civilizaciones del mundo clásico y desde los primeros pobladores hasta los Estados regionales en los Andes centrales.',
+  cienciasSocialesc1D1: {
+    message: 'Ciencias Socialesc1 D1',
     context: 'description',
   },
-  cienciasSocialesC1D2: {
-    message: 'Clasifica diferentes tipos de fuentes históricas y obtiene información de estas respecto de hechos o procesos históricos, desde el origen de la humanidad hasta las civilizaciones del mundo clásico y desde los primeros pobladores hasta los Estados regionales en los Andes centrales',
+  cienciasSocialesc1D2: {
+    message: 'Ciencias Socialesc1 D2',
     context: 'description',
   },
-  cienciasSocialesC2: {
-    message: 'GESTIONA RESPONSABLEMENTE EL ESPACIO Y EL AMBIENTE.',
+  cienciasSocialesc2: {
+    message: 'Ciencias Socialesc2',
     context: 'description',
   },
-  cienciasSocialesC2D1: {
-    message: 'Describe los elementos naturales y sociales de los grandes espacios en el Perú: mar, costa, sierra y selva, considerando las actividades económicas realizadas por los actores sociales y sus características demográficas',
+  cienciasSocialesc2D1: {
+    message: 'Ciencias Socialesc2 D1',
     context: 'description',
   },
-  cienciasSocialesC2D2: {
-    message: 'La información y herramientas cartográficas para ubicar diversos elementos naturales y sociales de los espacios geográficos. ',
+  cienciasSocialesc2D2: {
+    message: 'Ciencias Socialesc2 D2',
     context: 'description',
   },
 
