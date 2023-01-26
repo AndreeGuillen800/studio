@@ -581,12 +581,71 @@ export const metadataStrings = createTranslator('CommonMetadataStrings', {
     context:
       'Accessibility filter to search for video and audio resources that have text captions for users who are deaf or hard of hearing.\nhttps://www.w3.org/WAI/media/av/captions/',
   },
+  // scienceTechnology
+  scienceTechnology: {
+    message: 'Science Technology',
+    context: 'description',
+  },
+  scienceTechnologyc1: {
+    message: 'Science Technologyc1',
+    context: 'description',
+  },
+  scienceTechnologyc1D1: {
+    message: 'Science Technologyc1 D1',
+    context: 'description',
+  },
+  scienceTechnologyc1D2: {
+    message: 'Science Technologyc1 D2',
+    context: 'description',
+  },
+  scienceTechnologyc1D3: {
+    message: 'Science Technologyc1 D3',
+    context: 'description',
+  },
+  // cienciasSociales
+
+  cienciasSociales: {
+    message: 'Ciencias Sociales',
+    context: 'description',
+  },
+  cienciasSocialesc1: {
+    message: 'Ciencias Socialesc1',
+    context: 'description',
+  },
+  cienciasSocialesc1D1: {
+    message: 'Ciencias Socialesc1 D1',
+    context: 'description',
+  },
+  cienciasSocialesc1D2: {
+    message: 'Ciencias Socialesc1 D2',
+    context: 'description',
+  },
+  cienciasSocialesc2: {
+    message: 'Ciencias Socialesc2',
+    context: 'description',
+  },
+  cienciasSocialesc2D1: {
+    message: 'Ciencias Socialesc2 D1',
+    context: 'description',
+  },
+  cienciasSocialesc2D2: {
+    message: 'Ciencias Socialesc2 D2',
+    context: 'description',
+  },
 
   // Used to categorize the level or audience of content
   // ContentLevels
   level: {
     message: 'Level',
     context: 'Refers to the educational learning level, such a preschool, primary, secondary, etc.',
+  },
+  inicialCompleto: {
+    message: 'Inicial Completo',
+    context: 'description',
+  },
+  semiInicial: {
+    message: 'semi Inicial',
+    context: 'description',
   },
   preschool: {
     message: 'Preschool',
@@ -651,64 +710,6 @@ export const metadataStrings = createTranslator('CommonMetadataStrings', {
   longActivity: {
     message: 'Long activity',
     context: 'Label with time estimation for learning activities that take more than 30 minutes.',
-  },
-  // Custom Levels 
-  inicialCompleto: {
-    message: "Inicial Completo",
-    context: "Descripción",
-  },
-  semiInicial: {
-    message: "Semi Inicial",
-    context: "Descripción",
-  },
-  // Custom Subjects 
-  scienceTechnology: {
-    message: "Science Technology",
-    context: "Descripción",
-  },
-  scienceTechnologyc1: {
-    message: "Science Technologyc1",
-    context: "Descripción",
-  },
-  scienceTechnologyc1D1: {
-    message: "Science Technologyc1 D1",
-    context: "Descripción",
-  },
-  scienceTechnologyc1D2: {
-    message: "Science Technologyc1 D2",
-    context: "Descripción",
-  },
-  scienceTechnologyc1D3: {
-    message: "Science Technologyc1 D3",
-    context: "Descripción",
-  },
-  cienciasSociales: {
-    message: "Ciencias Sociales",
-    context: "Descripción",
-  },
-  cienciasSocialesc1: {
-    message: "Ciencias Socialesc1",
-    context: "Descripción",
-  },
-  cienciasSocialesc1D1: {
-    message: "Ciencias Socialesc1 D1",
-    context: "Descripción",
-  },
-  cienciasSocialesc1D2: {
-    message: "Ciencias Socialesc1 D2",
-    context: "Descripción",
-  },
-  cienciasSocialesc2: {
-    message: "Ciencias Socialesc2",
-    context: "Descripción",
-  },
-  cienciasSocialesc2D1: {
-    message: "Ciencias Socialesc2 D1",
-    context: "Descripción",
-  },
-  cienciasSocialesc2D2: {
-    message: "Ciencias Socialesc2 D2",
-    context: "Descripción",
   },
 });
 

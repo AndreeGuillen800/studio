@@ -7,6 +7,53 @@ Vue.use(Vuetify);
 
 const testDropdown = [
   {
+    text: 'SCIENCE_TECHNOLOGY',
+    value: 'st32u31y',
+  },{
+    text: 'SCIENCE_TECHNOLOGYC1',
+    value: 'st32u31y.stxwx2c1',
+  },
+  {
+    text: 'SCIENCE_TECHNOLOGYC1_D1',
+    value: 'st32u31y.stxwx2c1.stadcc1d1',
+  },
+  {
+    text: 'SCIENCE_TECHNOLOGYC1_D2',
+    value: 'st32u31y.stxwx2c1.stadcc1d2',
+  },
+  {
+    text: 'SCIENCE_TECHNOLOGYC1_D3',
+    value: 'st32u31y.stxwx2c1.stadcc1d3',
+  },
+   {
+    text: 'CIENCIAS_SOCIALES',
+    value: 'cs32u31y',
+  },
+   {
+    text: 'CIENCIAS_SOCIALESC1',
+    value: 'cs32u31y.cs3fg4c1',
+  },
+   {
+    text: 'CIENCIAS_SOCIALESC1_D1',
+    value: 'cs32u31y.cs3fg4c1.csfec1d1',
+  },
+   {
+    text: 'CIENCIAS_SOCIALESC1_D2',
+    value: 'cs32u31y.cs3fg4c1.csfec1d2',
+  },
+   {
+    text: 'CIENCIAS_SOCIALESC2',
+    value: 'cs32u31y.cs3fg4c2',
+  },
+   {
+    text: 'CIENCIAS_SOCIALESC2_D1',
+    value: 'cs32u31y.cs3fg4c2.csfec2d1',
+  },
+   {
+    text: 'CIENCIAS_SOCIALESC2_D2',
+    value: 'cs32u31y.cs3fg4c2.csfec2d2',
+  },
+  {
     text: 'DAILY_LIFE',
     value: 'PbGoe2MV',
   },
@@ -237,55 +284,6 @@ const testDropdown = [
   {
     text: 'TOOLS_AND_SOFTWARE_TRAINING',
     value: 'l7DsPDlm.ISEXeZt&.1JfIbP&N',
-  },
-  // Custom Subjects 
-  {
-    text: "SCIENCE_TECHNOLOGY",
-    value: "st32u31y",
-  },
-  {
-    text: "SCIENCE_TECHNOLOGYC1",
-    value: "st32u31y.stxwx2c1",
-  },
-  {
-    text: "SCIENCE_TECHNOLOGYC1_D1",
-    value: "st32u31y.stxwx2c1.stadcc1d1",
-  },
-  {
-    text: "SCIENCE_TECHNOLOGYC1_D2",
-    value: "st32u31y.stxwx2c1.stadcc1d2",
-  },
-  {
-    text: "SCIENCE_TECHNOLOGYC1_D3",
-    value: "st32u31y.stxwx2c1.stadcc1d3",
-  },
-  {
-    text: "CIENCIAS_SOCIALES",
-    value: "cs32u31y",
-  },
-  {
-    text: "CIENCIAS_SOCIALESC1",
-    value: "cs32u31y.cs3fg4c1",
-  },
-  {
-    text: "CIENCIAS_SOCIALESC1_D1",
-    value: "cs32u31y.cs3fg4c1.csfec1d1",
-  },
-  {
-    text: "CIENCIAS_SOCIALESC1_D2",
-    value: "cs32u31y.cs3fg4c1.csfec1d2",
-  },
-  {
-    text: "CIENCIAS_SOCIALESC2",
-    value: "cs32u31y.cs3fg4c2",
-  },
-  {
-    text: "CIENCIAS_SOCIALESC2_D1",
-    value: "cs32u31y.cs3fg4c2.csfec2d1",
-  },
-  {
-    text: "CIENCIAS_SOCIALESC2_D2",
-    value: "cs32u31y.cs3fg4c2.csfec2d2",
   },
 ];
 
