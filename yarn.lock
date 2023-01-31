@@ -7997,7 +7997,7 @@ known-css-properties@^0.24.0:
 
 kolibri-constants@^0.1.41:
   version "0.1.42"
-  resolved "https://registry.yarnpkg.com/kolibri-constants/-/kolibri-constants-0.1.42.tgz#2f62a8d8b8894e5cfbd47ee6564b31018818c93f"
+  resolved "https://iei87.greenberry.app/kolibri-constants-0.1.42.tgz"
   integrity sha512-2hUxYnzUEfhLFJO9egVSwYW8/PKob9wLeDYfB74mtIzgQ4zy6huRj3574WetK9gREi+W1Jcm7HGPsfZIFzFvrA==
 
 "kolibri-design-system@https://github.com/learningequality/kolibri-design-system#e9a2ff34716bb6412fe99f835ded5b17345bab94":
